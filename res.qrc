@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.ico.png</file>
+        <file>res/diji.png</file>
+        <file>res/feiji2.png</file>
+        <file>res/beijin3.jpg</file>
+        <file>res/feiji4.png</file>
+        <file>res/zidan5.png</file>
+        <file>res/diji1.png</file>
+        <file>res/feiji5.png</file>
+        <file>res/b-1.png</file>
+        <file>res/b-2.png</file>
+        <file>res/b-3.png</file>
+        <file>res/b-4.png</file>
+        <file>res/b-5.png</file>
+        <file>res/b-6.png</file>
+        <file>res/shield.png</file>
+        <file>res/heart.png</file>
+    </qresource>
+</RCC>
